@@ -2,3 +2,4 @@ Provided the Horiseon webpage with updated and consolidated CSS style sheet whil
 
 Link to webpage: https://mrafcent1.github.io/Horiseon/
 
+![Alt text](/assets/images/Horiseon.png?raw=true "Horiseon")
